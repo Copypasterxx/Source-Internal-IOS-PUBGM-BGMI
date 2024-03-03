@@ -12,7 +12,7 @@
 
 <ul>
   <li>PUBGM GL, KR, VN, TW, BGMI</li>
-  <li>Supported All Versions 2.8, 2.9 …</li>
+  <li>Updated for version 3.0</li>
   <li>Supported No JailBreak</li>
   <li>IPhone IPad</li>
 </ul>
